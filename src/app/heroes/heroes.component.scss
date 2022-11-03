@@ -9,6 +9,9 @@
 .heroes li {
   position: relative;
   cursor: pointer;
+
+  display: flex;
+  align-items: center;
 }
 
 .heroes li:hover {
